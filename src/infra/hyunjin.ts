@@ -1,0 +1,178 @@
+import { WallpaperItem } from '@/domain';
+
+export const hyunjin: WallpaperItem[] = [
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/6/69/Big_Ocean_Hyunjin_bnt_News_June_2024_%284%29.png/revision/latest/scale-to-width-down/1000?cb=20240606103402',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/8/86/Big_Ocean_Hyunjin_bnt_News_June_2024_%283%29.png/revision/latest/scale-to-width-down/1000?cb=20240606103419',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/f/f2/Big_Ocean_Hyunjin_bnt_News_June_2024_%282%29.png/revision/latest/scale-to-width-down/1000?cb=20240606103416',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/1f/Big_Ocean_Hyunjin_bnt_News_June_2024_%281%29.png/revision/latest/scale-to-width-down/1000?cb=20240606103424',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/5/52/Big_Ocean_Hyunjin_Slow_concept_photo_4.png/revision/latest?cb=20240908155630',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/8/87/Big_Ocean_Hyunjin_Slow_concept_photo_3.png/revision/latest?cb=20240908155626',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/e/ec/Big_Ocean_Hyunjin_Slow_concept_photo_2.png/revision/latest/scale-to-width-down/1000?cb=20240908160613',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/2/22/Big_Ocean_Hyunjin_Blow_promo_photo.png/revision/latest/scale-to-width-down/1000?cb=20240606103424',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/3/3b/Big_Ocean_Hyunjin_Glow_promo_photo.png/revision/latest?cb=20240606103411',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/7/7f/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_8.png/revision/latest/scale-to-width-down/1000?cb=20240606103720',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/f/f8/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_7.png/revision/latest/scale-to-width-down/1000?cb=20240606103458',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/c/c0/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_5.png/revision/latest/scale-to-width-down/1000?cb=20240606103501',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/3/30/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_4.png/revision/latest/scale-to-width-down/1000?cb=20240606103503',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/12/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_3.png/revision/latest?cb=20240606103429',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/16/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_2.png/revision/latest?cb=20240606103434',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/8/84/Big_Ocean_Hyunjin_Parastar_Entertainment_profile_photo_1.png/revision/latest?cb=20240606103438',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://static.wikia.nocookie.net/kpop/images/d/d9/Big_Ocean_Hyunjin_Slow_concept_photo_1.png/revision/latest?cb=20240908155656',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/26/ef/bf/26efbf64791516b02c209e9558057894.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/7e/63/12/7e63127d8237266d5eb19a30e58b3e26.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/53/c8/17/53c817f27d85f7049ca61abd9b26c2e0.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/aa/1f/11/aa1f1152ec51d376a2eded9b6611c7fb.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/96/6d/e5/966de54d2a34ce481adc4ffde0b2d35d.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/9e/f9/c0/9ef9c0b524b10658d23d5aa41a3e51de.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/df/d3/4e/dfd34e7df35c9e77fd53767423156f61.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/48/72/cb/4872cb187325d032da2d7b4116e87816.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/72/4f/6d/724f6db84ef98dd30d503354b274aa15.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/26/ff/90/26ff90d64140fc89c3962cb115411c03.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/de/74/3a/de743ab112e42c82f456805a7b1eba40.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  },
+  {
+    name: 'Hyunjin',
+    link: 'https://i.pinimg.com/736x/c6/d7/d7/c6d7d7387f2580abac8f692c78793f65.jpg',
+    category: 'Park Hyunjin',
+    star: false,
+  }
+];

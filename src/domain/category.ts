@@ -1,10 +1,8 @@
 export type Category =
-  | 'WinWin'
-  | 'Ten'
-  | 'Xiaojun'
-  | 'Liu Yangyang'
-  | 'Kun'
-  | 'Hendery'
+  | 'Kim Jiseok'
+  | 'Park Hyunjin'
+  | 'Lee Chanyeon'
+  | 'Big Ocean'
 
 
 

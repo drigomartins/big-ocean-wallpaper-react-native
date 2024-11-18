@@ -1,0 +1,172 @@
+import { WallpaperItem } from '@/domain';
+
+export const chanyeon: WallpaperItem[] = [
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/d/d7/Big_Ocean_Chanyeon_bnt_News_June_2024_%284%29.png/revision/latest/scale-to-width-down/1000?cb=20240606100903',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/e/e4/Big_Ocean_Chanyeon_bnt_News_June_2024_%283%29.png/revision/latest/scale-to-width-down/1000?cb=20240606100908',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/3/3e/Big_Ocean_Chanyeon_bnt_News_June_2024_%282%29.png/revision/latest/scale-to-width-down/1000?cb=20240606100904',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/5/56/Big_Ocean_Chanyeon_bnt_News_June_2024_%281%29.png/revision/latest/scale-to-width-down/1000?cb=20240606100904',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/15/Big_Ocean_Chanyeon_Slow_concept_photo_4.png/revision/latest?cb=20240908155626',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/1d/Big_Ocean_Chanyeon_Slow_concept_photo_3.png/revision/latest?cb=20240908155626',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/1d/Big_Ocean_Chanyeon_Slow_concept_photo_2.png/revision/latest/scale-to-width-down/1000?cb=20240908160140',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/b/b3/Big_Ocean_Chanyeon_Blow_promo_photo.png/revision/latest/scale-to-width-down/1000?cb=20240606100853',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/f/f4/Big_Ocean_Chanyeon_Glow_promo_photo.png/revision/latest?cb=20240606100901',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/5/55/Big_Ocean_Chanyeon_Parastar_Entertainment_profile_photo_5.png/revision/latest/scale-to-width-down/1000?cb=20240606100917',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/9/91/Big_Ocean_Chanyeon_Parastar_Entertainment_profile_photo_4.png/revision/latest/scale-to-width-down/1000?cb=20240606100920',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/3/3d/Big_Ocean_Chanyeon_Parastar_Entertainment_profile_photo_3.png/revision/latest/scale-to-width-down/1000?cb=20240606100920',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/7/78/Big_Ocean_Chanyeon_Parastar_Entertainment_profile_photo_2.png/revision/latest/scale-to-width-down/1000?cb=20240606100920',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/a/ab/Big_Ocean_Chanyeon_Parastar_Entertainment_profile_photo_1.png/revision/latest?cb=20240606100907',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://static.wikia.nocookie.net/kpop/images/6/65/Big_Ocean_Chanyeon_Slow_concept_photo_1.png/revision/latest?cb=20240908155634',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/2b/92/3c/2b923cb53bbf777f8f0d7779e5bce45b.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/03/06/42/0306429c5ce0e78181bf0e7b31e22711.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/85/69/1c/85691c40283bb7ee689e057e7fda0256.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/1c/42/41/1c4241a4c368baa533c9b3a5968a781c.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/8c/ad/8d/8cad8d0176d3cc2ab847d38d6f68e9a1.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/5a/e6/7f/5ae67f4ccc5e488998ebef73a35ce9fb.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/5f/c5/af/5fc5af63ce77cba59650d11b031b768a.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/ab/19/1b/ab191b6656d89862cc5ed4692ef88f15.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/60/a8/bd/60a8bd1983138fdf30b7e5fca2505ba5.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/8f/75/c5/8f75c5a911bc10c93ed18ff0286d2f5e.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/88/a3/4b/88a34b143e9abfc29ef671edae977b0d.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/07/b4/99/07b499e45b674ddbe9a1fabf42bcc737.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  },
+  {
+    name: 'Chanyeon',
+    link: 'https://i.pinimg.com/736x/59/eb/3c/59eb3c0b4275786673a4537f4562d7d6.jpg',
+    category: 'Lee Chanyeon',
+    star: false,
+  }
+];

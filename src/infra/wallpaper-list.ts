@@ -1,17 +1,13 @@
 import { WallpaperItem } from '@/domain';
 
-import { winWin } from './winwin';
-import { ten } from './ten';
-import { xiaojun } from './xiaojun';
-import { liuYangyang } from './liu-Yangyang';
-import { kun } from './kun';
-import { hendery } from './hendery';
+import { kimJiseok } from './kimJiseok';
+import { chanyeon } from './chanyeon';
+import { hyunjin } from './hyunjin';
+import { bigOcean } from './bigOcean';
 
 export const wallpaperList: WallpaperItem[] = [
-  ...winWin,
-  ...ten,
-  ...xiaojun,
-  ...liuYangyang,
-  ...kun,
-  ...hendery,
+  ...kimJiseok,
+  ...chanyeon,
+  ...hyunjin,
+  ...bigOcean,
 ];

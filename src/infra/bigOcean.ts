@@ -1,0 +1,166 @@
+import { WallpaperItem } from '@/domain';
+
+export const bigOcean: WallpaperItem[] = [
+  {
+    name: 'Big Ocean',
+    link: 'https://static.wikia.nocookie.net/kpop/images/4/49/Big_Ocean_Blow_group_promo_photo_4.png/revision/latest/scale-to-width-down/1000?cb=20240809123143',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://static.wikia.nocookie.net/kpop/images/2/24/Big_Ocean_bnt_news_June_2024_%282%29.png/revision/latest/scale-to-width-down/1000?cb=20240606094322',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://static.wikia.nocookie.net/kpop/images/4/45/Big_Ocean_bnt_news_June_2024_%283%29.png/revision/latest/scale-to-width-down/1000?cb=20240606094322',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://static.wikia.nocookie.net/kpop/images/6/6a/Big_Ocean_bnt_news_June_2024_%284%29.png/revision/latest/scale-to-width-down/1000?cb=20240606094313',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://static.wikia.nocookie.net/kpop/images/7/7d/Big_Ocean_Slow_group_concept_photo_1.png/revision/latest?cb=20240809122533',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/e8/84/ab/e884ab5f9d9b061e2365677e30ee4148.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/d8/01/a2/d801a2d841c0b2ad0d8954a5f0e79c92.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/76/21/e1/7621e103a3e434b3ae57dadd7360f94e.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/6a/23/d0/6a23d03b7d58b794087196f7b04fa4db.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/e8/49/1e/e8491ee3c250da612762b211984669be.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/8b/b3/ab/8bb3ab0beaf5d47d54f720ee9597537d.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/bc/54/6a/bc546a8fbf2a91f40a48e561c7a82e49.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/29/c7/e7/29c7e7334de0669a334f2d3f8e566e9b.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/cf/02/07/cf0207b85c09f71c1e68dc699182de06.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/b4/54/a1/b454a1d05a504b7d2ebd3145cf32d780.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/dd/eb/52/ddeb52dbef0df8aefc2c81c207065c45.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/07/8a/2d/078a2d855b78c119753b625e15d4bea6.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/c4/d5/c3/c4d5c313eb0e6f50b9d04538ef8f746e.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/7b/1e/a8/7b1ea8bec98b857cfa8268e943e24f58.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/96/5d/21/965d214db943cfcde41f3dbad3914759.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/a5/30/4e/a5304ebd0342aa50390b03eba276f11d.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/35/74/17/3574172910ca9ba02779957f3fc7f994.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/b4/5b/98/b45b98529f2da7941276c5a67ab2c284.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/af/e8/1e/afe81e4ff5f2649c117cdbea3e1d91d3.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/16/49/f4/1649f475d20e7b8c9c3c925666c4b2a7.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/98/af/2e/98af2e4d518d24dac56d7a35cb7759af.jpg',
+    category: 'Big Ocean',
+    star: false,
+  },
+  {
+    name: 'Big Ocean',
+    link: 'https://i.pinimg.com/736x/33/2f/6a/332f6ad4f39aa55595d08c45a1331e5b.jpg',
+    category: 'Big Ocean',
+    star: false,
+  }
+];
